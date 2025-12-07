@@ -2,6 +2,8 @@
 
 Um selfbot para Discord que permite deletar mensagens via ID do canal.
 
+**Desenvolvido por [Brunno47/Nine](https://github.com/brunno47)**
+
 ## ⚠️ Aviso Importante
 
 **O uso de selfbots viola os Termos de Serviço do Discord.** Este projeto é apenas para fins educacionais. Use por sua própria conta e risco. O Discord pode banir sua conta se detectar o uso de selfbots.
