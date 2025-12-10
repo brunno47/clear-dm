@@ -43,3 +43,9 @@ Desktop.ini
 *.backup
 *~
 
+# Scripts temporários de push
+push-github.bat
+push-github.ps1
+push-to-github.bat
+push-to-github.ps1
+
