@@ -1,16 +1,16 @@
 {
-  "name": "discord-selfbot",
+  "name": "fourstatic",
   "version": "1.0.0",
-  "description": "Selfbot para Discord que apaga mensagens via ID do canal",
+  "description": "Fourstatic - Ferramenta para Discord que apaga mensagens via ID do canal",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [
     "discord",
-    "selfbot"
+    "fourstatic"
   ],
-  "author": "",
+  "author": "Nine",
   "license": "MIT",
   "dependencies": {
     "discord.js-selfbot-v13": "^2.14.12",

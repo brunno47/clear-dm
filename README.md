@@ -1,8 +1,10 @@
-# Discord Selfbot - Deletar Mensagens
+# Fourstatic - Deletar Mensagens
 
-Um selfbot para Discord que permite deletar mensagens via ID do canal.
+Fourstatic é uma ferramenta para Discord que permite deletar mensagens via ID do canal.
 
-**Desenvolvido por [Brunno47/Nine](https://github.com/brunno47)**
+**Desenvolvido por [Nine](https://github.com/brunno47)**
+
+**Autor: Nine** | Discord: `hmgrr`
 
 ## ⚠️ Aviso Importante
 
@@ -46,12 +48,12 @@ TOKEN=seu_token_aqui
 
 ## 📖 Como Usar
 
-1. Inicie o selfbot:
+1. Inicie o Fourstatic:
 ```bash
 npm start
 ```
 
-2. Aguarde a conexão (você verá "✅ Selfbot conectado como [seu nome]!")
+2. Aguarde a conexão (você verá "✅ Fourstatic conectado como [seu nome]!")
 
 3. Use os comandos disponíveis:
 
@@ -98,14 +100,24 @@ npm start
 
 - **NUNCA compartilhe seu token do Discord**
 - Mantenha o arquivo `.env` privado e não o commite no Git
-- Use este selfbot apenas em contas pessoais de teste
+- Use o Fourstatic apenas em contas pessoais de teste
 - Esteja ciente dos riscos de banimento
 
 ## 📝 Notas
 
-- O selfbot só pode deletar mensagens que você mesmo enviou
+- O Fourstatic só pode deletar mensagens que você mesmo enviou
 - Há um delay de 1 segundo entre cada deleção para evitar rate limits
 - Para canais com muitas mensagens, o processo pode demorar
+
+## 👤 Autor
+
+**Nine**
+
+- GitHub: [@brunno47](https://github.com/brunno47)
+- Discord: `hmgrr`
+- Desenvolvedor do Fourstatic
+
+---
 
 ## 📄 Licença
 
@@ -113,5 +125,5 @@ MIT
 
 ## ⚠️ Disclaimer
 
-Este software é fornecido "como está", sem garantias. O uso deste selfbot é de sua total responsabilidade. O Discord pode banir contas que usam selfbots.
+Este software é fornecido "como está", sem garantias. O uso do Fourstatic é de sua total responsabilidade. O Discord pode banir contas que usam selfbots.
 

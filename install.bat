@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >nul
-title ╔═══════════════════════════════════════╗ Discord Selfbot - Instalador ╚═══════════════════════════════════════╝
+title ╔═══════════════════════════════════════╗ Fourstatic - Instalador ╚═══════════════════════════════════════╝
 color 0A
 cls
 
@@ -55,7 +55,7 @@ if %errorlevel% equ 0 (
     echo     ║                                                              ║
     echo     ║  [✓] Todas as dependencias foram instaladas com sucesso!     ║
     echo     ║                                                              ║
-    echo     ║  [→] Execute start.bat para iniciar o selfbot               ║
+    echo     ║  [→] Execute start.bat para iniciar o Fourstatic                 ║
     echo     ║                                                              ║
     echo     ═══════════════════════════════════════════════════════════════
     echo.

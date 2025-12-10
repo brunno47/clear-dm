@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >nul
-title ╔═══════════════════════════════════════╗ Discord Selfbot ╚═══════════════════════════════════════╝
+title ╔═══════════════════════════════════════╗ Fourstatic ╚═══════════════════════════════════════╝
 color 0B
 cls
 
@@ -16,7 +16,7 @@ echo     ║          ███████║███████╗███�
 echo     ║          ╚══════╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝      ║
 echo     ║                                                               ║
 echo     ║              ╔═══════════════════════════════════╗             ║
-echo     ║              ║      DISCORD SELFBOT v1.0        ║             ║
+echo     ║              ║         Fourstatic v1.0              ║             ║
 echo     ║              ╚═══════════════════════════════════╝             ║
 echo     ║                                                               ║
 echo     ╚═══════════════════════════════════════════════════════════════╝
@@ -69,7 +69,7 @@ echo     ║          ███████║███████╗███�
 echo     ║          ╚══════╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝      ║
 echo     ║                                                               ║
 echo     ║              ╔═══════════════════════════════════╗             ║
-echo     ║              ║      DISCORD SELFBOT v1.0        ║             ║
+echo     ║              ║         Fourstatic v1.0              ║             ║
 echo     ║              ╚═══════════════════════════════════╝             ║
 echo     ║                                                               ║
 echo     ╚═══════════════════════════════════════════════════════════════╝
@@ -121,7 +121,7 @@ echo     ═══════════════════════�
 echo     ║                                                              ║
 echo     ║  [✓] Todas as verificacoes concluidas!                      ║
 echo     ║                                                              ║
-echo     ║  [*] Iniciando selfbot...                                    ║
+    echo     ║  [*] Iniciando Fourstatic...                                     ║
 echo     ║                                                              ║
 echo     ═══════════════════════════════════════════════════════════════
 echo.
@@ -141,7 +141,7 @@ echo     ║          ███████║███████╗███�
 echo     ║          ╚══════╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝      ║
 echo     ║                                                               ║
 echo     ║              ╔═══════════════════════════════════╗             ║
-echo     ║              ║      DISCORD SELFBOT v1.0        ║             ║
+echo     ║              ║         Fourstatic v1.0              ║             ║
 echo     ║              ╚═══════════════════════════════════╝             ║
 echo     ║                                                               ║
 echo     ╚═══════════════════════════════════════════════════════════════╝
@@ -163,7 +163,7 @@ if %errorlevel% neq 0 (
     echo     ║  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝                            ║
     echo     ║                                                               ║
     echo     ║          ╔═══════════════════════════════════╗                ║
-    echo     ║          ║   ERRO AO EXECUTAR O SELFBOT!      ║                ║
+    echo     ║          ║      ERRO AO EXECUTAR O FOURSTATIC!     ║                ║
     echo     ║          ╚═══════════════════════════════════╝                ║
     echo     ║                                                               ║
     echo     ╚═══════════════════════════════════════════════════════════════╝
@@ -171,7 +171,7 @@ if %errorlevel% neq 0 (
     echo.
     echo     ═══════════════════════════════════════════════════════════════
     echo     ║                                                              ║
-    echo     ║  [✗] Ocorreu um erro ao executar o selfbot!                  ║
+    echo     ║  [✗] Ocorreu um erro ao executar o Fourstatic!                   ║
     echo     ║                                                              ║
     echo     ║  [→] Verifique se o token esta correto no arquivo .env       ║
     echo     ║  [→] Certifique-se de ter Node.js instalado                  ║
